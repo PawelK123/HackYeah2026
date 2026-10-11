@@ -5,7 +5,8 @@ dla osób na wózkach i rodziców z wózkami dziecięcymi.
 
 Zespół: […] · Członkowie: Michał (@micchask), Ignacy (@Bleklajtnik), Paweł (@PawelK123),
 Gustaw (@gustawito), Miłosz (@mwiktorowicz) · HackYeah 2026: Kraków bez barier, Smart City
-Film: […] · Prezentacja: […]
+Film: https://www.youtube.com/watch?v=BnIoNk-IPlw
+Prezentacja: https://cdn.discordapp.com/attachments/1555890962394513501/1556224968625496084/HackYeah20202620Pitch20Deck_10MB.pdf?backend=b2&ex=6acc9d71&is=6acb4bf1&hm=5a477ab73b7c0296d8190f97a7e20e7fd10c5bcf9993a57851f0f1f690531fd8&
 
 ## Problem
 
