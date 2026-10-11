@@ -79,7 +79,7 @@ bez dostępu do zewnętrznych API (`make seed`). Szczegóły: [`docs/data-source
 
 Aplikacja: http://localhost:5173 · API: http://localhost:8000/docs
 
-Wersja online: […] (hosting: [`docs/deploy-render.md`](docs/deploy-render.md)).
+**Wersja online:** Obecnie niedostępna (instrukcja wdrożenia: [`docs/deploy-render.md`](docs/deploy-render.md)).
 
 Bez `make`: [`docs/development.md`](docs/development.md). Scenariusz demo (3 min):
 [`docs/demo-scenario.md`](docs/demo-scenario.md).
